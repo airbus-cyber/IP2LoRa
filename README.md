@@ -7,7 +7,7 @@ IP2Lora allows making IP communication using wireless LoRa communication.
 For more information, read this [article](https://airbus-cyber-security.com/ip2lora/).
 
 <p align="center">
-<img src="doc/LORA2IP_overview.jpg" width=600>
+<img src="https://airbus-cyber-security.com/wp-content/uploads/2020/10/lora_modbus_st.gif" width=600>
 </p>
 
 
