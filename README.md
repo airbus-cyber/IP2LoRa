@@ -15,7 +15,7 @@ For more information, read this [article](https://airbus-cyber-security.com/ip2l
 | Lora device                                                                      |Supported  |
 |----------------------------------------------------------------------------------|-----------|
 |[B-L072Z-LRWAN1](https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html)      | Yes       |
-|[WisNode](https://store.rakwireless.com/products/rak811-lpwan-evaluation-board)   | Partially |
+|[WisDuino](https://store.rakwireless.com/products/rak811-lpwan-evaluation-board)  | Partially |
 |[LoStick](https://ronoth.com/products/lostik)                                     | Partially |
 
 
