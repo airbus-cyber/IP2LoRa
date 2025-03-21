@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 IP2Lora allows making IP communication using wireless LoRa communication.
-For more information, read this [article](https://airbus-cyber-security.com/ip2lora/).
+For more information, read this [article](https://github.com/airbus-cyber/blogpost/tree/main/ip2lora-a-diverted-use-of-lora-to-build-your-wireless-ip-link-over-kilometers).
 
 <p align="center">
 <img src="https://airbus-cyber-security.com/wp-content/uploads/2020/10/lora_modbus_st.gif" width=600>
